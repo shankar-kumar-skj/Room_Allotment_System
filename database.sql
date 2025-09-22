@@ -1,7 +1,7 @@
 -- database.sql
 CREATE DATABASE IF NOT EXISTS college_allotment;
 USE college_allotment;
-
+-- drop database college_allotment;
 -- users: id, username, password(hash), role, priority
 CREATE TABLE IF NOT EXISTS users (
   id INT AUTO_INCREMENT PRIMARY KEY,

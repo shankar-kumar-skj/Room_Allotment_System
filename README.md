@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Room Allotment System (demo)
 
 ## Setup
@@ -17,3 +18,7 @@
 # College Room Allotment System
 
 Java + MySQL + AWT based project.
+=======
+# Room_Allotment_System
+Developed a web-based system to allot rooms based on capacity. Admin and HOD can manage room allotments, and students can log in to check their allotted rooms. Automated the process to reduce manual effort and improve accuracy.
+>>>>>>> 1ec3291d0e9aa5b1b269085f364578edfdd8d4be
